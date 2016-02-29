@@ -1,8 +1,10 @@
-# Raspberry Pi Documentation
+# Raspberry Pi Documentation (Manuscripts Edition)
 
-[![Build Status](https://travis-ci.org/raspberrypi/documentation.svg?branch=master)](https://travis-ci.org/raspberrypi/documentation)
+by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) with community contributions
 
-This is the official documentation for the Raspberry Pi, written by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) with community contributions.
+
+This is the (official) documentation for the Raspberry Pi reformatted into a single page black-n-white book using the Manuscripts book format.
+
 
 ## Contents
 
@@ -23,20 +25,3 @@ This is the official documentation for the Raspberry Pi, written by the [Raspber
 - [Hardware](hardware/README.md)
     - Technical specifications about the Raspberry Pi hardware and the camera module
 
-## Contributions
-
-If you have anything to fix or details to add, first [file an issue](http://github.com/raspberrypi/documentation/issues) on GitHub to see if it is likely to be accepted, then file a pull request with your change (one PR per issue).
-
-This is not intended to be an open wiki; we want to keep it concise and minimal but will accept fixes and suitable additions.
-
-See our [contributing policy](CONTRIBUTING.md).
-
-## Licence
-
-Unless otherwise specified, everything in this repository is covered by the following licence:
-
-[![Creative Commons Attribution-ShareAlike 4.0 International](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-***Raspberry Pi Documentation*** by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) is licensed under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
-
-Based on a work at https://github.com/raspberrypi/documentation
